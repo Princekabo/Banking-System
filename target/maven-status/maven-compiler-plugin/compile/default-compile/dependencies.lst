@@ -1,0 +1,7 @@
+classpath:/home/codespace/.m2/repository/org/openjfx/javafx-controls/21/javafx-controls-21.jar	306:1695031945000
+classpath:/home/codespace/.m2/repository/org/openjfx/javafx-controls/21/javafx-controls-21-linux.jar	2585141:1695031971000
+classpath:/home/codespace/.m2/repository/org/openjfx/javafx-graphics/21/javafx-graphics-21.jar	306:1695032008000
+classpath:/home/codespace/.m2/repository/org/openjfx/javafx-graphics/21/javafx-graphics-21-linux.jar	4689276:1695032031000
+classpath:/home/codespace/.m2/repository/org/openjfx/javafx-base/21/javafx-base-21.jar	302:1695031918000
+classpath:/home/codespace/.m2/repository/org/openjfx/javafx-base/21/javafx-base-21-linux.jar	754315:1695031923000
+classpath:/home/codespace/.m2/repository/com/h2database/h2/2.2.224/h2-2.2.224.jar	2614933:1695020346000
